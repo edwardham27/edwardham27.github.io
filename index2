@@ -1,7 +1,7 @@
 <html>
    <head>
      <meta charset="utf-8">
-     <title>Edward Ham | Portfolio</title>
+     <title>Teresa Cunniff | Portfolio</title>
      <link rel="stylesheet" href="styles/main.css">
    </head>
    <body>
@@ -12,11 +12,9 @@
 					<ul>
 						<li><a href="index.html">Home</a></li>
 						<li><a href="remix.html">Remix</a></li>
-						<li><a href="glitch.html">Glitch</a><li>
-						<li><a href="video.html">Video</a><li>
-						<li><a href="net.html">Net</a><li>
-						<li><a href="processing.html">Processing</a><li>
-						<li><a href="final.html">Final Project</a><li>
+						<li>Glitch</li>
+						<li>Video</li>
+						<li>Net Art</li>
 					</ul>				
 			</nav>
 		
@@ -28,6 +26,6 @@
      <p>"Never accept the world as it appears to be, dare to see it for what it could be." <br>
      -Dr. Harold Winston</p> 
      <p>This is my portfolio site.</p>     
-     <img src="images/glitched rose re.gif" alt="rose gif"  style= "width:500p;height:375px;"> 
+     <img src="images/lumi-ground-d2.jpg" alt="detail from the installation The Luminous Ground"  style= "width:500p;height:375px;"> 
    </body> 
 </html> 
