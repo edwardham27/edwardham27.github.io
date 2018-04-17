@@ -59,4 +59,8 @@ body{
 	nav {
 		text-align: center;
 	}		 
+
+	iframe{
+    overflow:hidden;
+	}
 +	
