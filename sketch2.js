@@ -66,7 +66,7 @@ function resizeWindowed() {
 function setup() {
 canvas = createCanvas(windowWidth, windowHeight); 
  canvas.position(0,0);
- canvas.style('z-index', '-1')
+ canvas.style('z-index', '-2')
   colorMode(HSB, 360);
   
   for (var i = 0; i < particleCount; i++) {
@@ -82,7 +82,7 @@ canvas = createCanvas(windowWidth, windowHeight);
 
 
 function draw() {
-  background(175);
+  background(19,48,56);
   
   for (var i = 0; i < particles.length; i++) {
     particles[i].move();
